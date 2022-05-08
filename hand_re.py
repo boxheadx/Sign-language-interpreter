@@ -4,11 +4,6 @@ import math
 import pyttsx3
 import os 
 import time
-#engine = pyttsx3.init('espeak')
-
-
-#engine.say("I will speak this text")
-#engine.runAndWait()
 
 cap = cv.VideoCapture(0)
 
